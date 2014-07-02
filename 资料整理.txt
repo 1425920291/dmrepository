@@ -1,0 +1,2 @@
+1.网址类资源
+  jvm调优总结（从基本概念 到 深度优化）  http://zhaoshijie.iteye.com/blog/1969610
