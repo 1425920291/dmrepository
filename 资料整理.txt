@@ -1,3 +1,4 @@
 1.网址类资源
   jvm调优总结（从基本概念 到 深度优化）  http://zhaoshijie.iteye.com/blog/1969610
 2.用UglifyJS2合并压缩混淆js代码   http://blog.fens.me/nodejs-uglifyjs2-js/
+3.lucene 资料     http://www.ibm.com/developerworks/cn/java/j-lo-lucene1/
