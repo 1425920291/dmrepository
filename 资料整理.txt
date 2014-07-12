@@ -7,4 +7,9 @@
 
 
 
-qinniu   http://developer.qiniu.com/docs/v6/api/reference/fop/pfop/pfop.html
+qinniu接口文档   http://developer.qiniu.com/docs/v6/api/reference/fop/pfop/pfop.html
+安卓
+===========
+1.AndroidMainifest.xml详解系列http://255135.blog.51cto.com/245135/806884                   【不错，☆☆☆☆☆】
+2.activity和service之间的通讯 ：http://zhangyan1158.blog.51cto.com/2487362/491358
+
