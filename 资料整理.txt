@@ -18,3 +18,4 @@ java 零散的知识
 ===============
 String 详解   http://blog.csdn.net/xwygn/article/details/6095022
 开源中国maven库使用帮助：http://maven.oschina.net/help.html
+jvm调优：http://unixboy.iteye.com/blog/174173
