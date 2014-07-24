@@ -8,14 +8,19 @@
 
 
 qinniu接口文档   http://developer.qiniu.com/docs/v6/api/reference/fop/pfop/pfop.html
-
+================
 安卓
 ================
 1.AndroidMainifest.xml详解系列http://255135.blog.51cto.com/245135/806884                   【不错，☆☆☆☆☆】
 2.activity和service之间的通讯 ：http://zhangyan1158.blog.51cto.com/2487362/491358
-
+===============
 java 零散的知识
 ===============
 String 详解   http://blog.csdn.net/xwygn/article/details/6095022
 开源中国maven库使用帮助：http://maven.oschina.net/help.html
 jvm调优：http://unixboy.iteye.com/blog/174173
+
+================
+mybatis
+================
+mybatis 分页 ：http://blog.csdn.net/hupanfeng/article/details/9265341
