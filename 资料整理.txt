@@ -25,3 +25,8 @@ java多线程总结：http://lavasoft.blog.51cto.com/62575/27069/
 mybatis
 ================
 mybatis 分页 ：http://blog.csdn.net/hupanfeng/article/details/9265341
+
+
+==========================
+健身，哑铃动作  http://www.fitknow.com/s/dum.html
+==========================
