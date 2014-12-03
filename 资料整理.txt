@@ -31,3 +31,28 @@ mybatis 分页 ：http://blog.csdn.net/hupanfeng/article/details/9265341
 ==========================
 健身，哑铃动作  http://www.fitknow.com/s/dum.html
 ==========================
+==========时间转换，时区=======
+http://blog.csdn.net/hongweigg/article/details/6777607
+
+	public static void test2(){
+		String s="Wed, 03 Dec 2014 14:36:58 GMT";
+	    SimpleDateFormat sdf = new SimpleDateFormat("EEE, d MMM yyyy HH:mm:ss 'GMT'", Locale.US);
+	   // GMT是中央时区,北京在东8区,相差8个小时　　所以北京时间=GMT时间+八小时　　Greenwich mean time 
+	    try {
+			Date d=sdf.parse(s);
+			System.out.println(d.toLocaleString());
+			Calendar rightNow = Calendar.getInstance();
+			rightNow.setTime(d);
+			rightNow.add(Calendar.HOUR, 8);
+			String ss=rightNow.getTime().toLocaleString();
+			System.out.println(ss);
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+
+===================================
+
+
